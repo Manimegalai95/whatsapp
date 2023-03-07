@@ -4,3 +4,4 @@ chat screen code
 last seen code
 audio and video call screen 
 hiding last seen code
+adding the status option feature
